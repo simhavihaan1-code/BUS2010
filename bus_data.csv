@@ -1,0 +1,3 @@
+Bus_Number,Route_Name,Current_Location,Bus_Type,Morning_Timing_1,Morning_Timing_2,Morning_Timing_3,Afternoon_Timing_1,Afternoon_Timing_2,Afternoon_Timing_3,Evening_Timing_1,Evening_Timing_2,Evening_Timing_3,Night_Timing_1,Night_Timing_2,Night_Timing_3
+,,,KSRTC,,,,,,,,,,,,
+fd,df,,BMTC,,,,,,,,,,,,
